@@ -1,3 +1,3 @@
-# arduino_Lora_Environmental-monitoring
+# arduino-Lora-Environmental-monitoring
 
 Environmental monitoring using Arduino Lora communication
